@@ -1,0 +1,10 @@
+1. Basic movements 
+2. Picking up objects
+3. Throwing objects
+4. Putting down objects
+5. Lifting the robot up
+6. Speed controlling
+7. Color reading
+8. Object reading
+9. [special] code reading
+10. Pressing the thing
