@@ -1,11 +1,14 @@
 <a id='readme-top'></a>
 
-[![Contributors](contributors-shield)](contributors-url)
+<!--[![Contributors](contributors-shield)](contributors-url)
 [![Forks](forks-shield)](forks-url)
 [![Stargazers](stars-shield)](stars-url)
 [![Issues](issues-shield)](issues-url)
-[![GPL-2.0](license-shield)](license-url)
-[![Telegram](telegram-shield)](linkedin-url)
+[![GPL-2.0 license](license-shield)](license-url)
+[![Telegram](telegram-shield)](linkedin-url)-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![GPL-2.0 License][license-shield]][license-url]
 
 <div align="center">
     <h3 align="center">Текст</h3>
